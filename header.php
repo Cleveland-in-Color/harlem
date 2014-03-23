@@ -7,7 +7,6 @@
  * @package WordPress
  * @subpackage Starkers
  * @since Starkers HTML5 3.0
- * another edit
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>

@@ -5,7 +5,7 @@
  * @package WordPress
  * @subpackage Starkers
  * @since Starkers HTML5 3.0
- * test by Miquel Brazil
+ * test
  */
  
 get_header(); ?>
